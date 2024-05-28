@@ -1,5 +1,5 @@
 # このプラグインは何ですか？
-英語版のREADMEについては、[こちら](link-to-English-README)をクリックしてください。
+英語版のREADMEについては、[こちら](https://github.com/SuikaMCBE/MapImage/blob/main/README.md)をクリックしてください。
 
 手に持っている地図に画像を埋め込むことができるプラグインです。
 
