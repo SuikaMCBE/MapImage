@@ -1,0 +1,6 @@
+name: MapImage
+description: A PNX plugin that allows you to display images on the map.
+version: "${pom.version}"
+api: ["2.0.0"]
+author: SuikaMCBE
+main: io.github.suikamcbe.MapImagePlugin
