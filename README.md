@@ -1,5 +1,5 @@
 # What is this plugin?
-For the Japanese version of the README, please click [here](https://github.com/SuikaMCBE/MapImage/README_JP.md).
+For the Japanese version of the README, please click [here](https://github.com/SuikaMCBE/MapImage/blob/main/README_JP.md).
 
 This plugin allows you to embed images into the map you are holding.
 
