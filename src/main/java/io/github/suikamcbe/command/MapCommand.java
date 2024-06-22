@@ -59,20 +59,6 @@ public class MapCommand extends Command {
             return 0;
         }
 
-        if(Objects.equals(type, "url") && !urlOrFileName.endsWith(".png")) {
-            log.addError("無効なURLです。画像は.png形式である必要があります。\n - Invalid URL. Image must be in .png format.");
-            log.output();
-
-            return 0;
-        }
-
-        if(Objects.equals(type, "file") && !urlOrFileName.endsWith(".png")) {
-            log.addError("無効なファイル名です。画像は.png形式である必要があります。\n - Invalid file name. Image must be in .png format.");
-            log.output();
-
-            return 0;
-        }
-
         if(Objects.equals(type, "file")) {
             File file = new File(MapImagePlugin.getInstance().getDataFolder().toString(), "images/" + urlOrFileName);
 
